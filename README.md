@@ -15,6 +15,6 @@ API desenvolvida utilizando NodeJS
 
 ```bash
   npm run dev
-  nmp rum migrate
+  nmp run migrate
 ```
     
