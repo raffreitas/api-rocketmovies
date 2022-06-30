@@ -14,7 +14,7 @@ API desenvolvida utilizando NodeJS
 ## Instalação
 
 ```bash
+  npm install
   npm run dev
-  nmp run migrate
 ```
     
